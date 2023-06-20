@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+.containerPrincipal{
+  padding-top: 56px;
+}
+
+.content{
+  background: url("../../../assets/3.jpg");
+  
+  background-size: 100% 100%;
+  padding-top: 300px;
+  padding-bottom: 300px;
+  padding-left: 200px;
+  color: white;
+}
+
+
+
+
+
+
+
