@@ -6,19 +6,35 @@ body{
 }
 .containerPrincipal{
   padding-top: 56px;
+  background-color: black;
 }
 
 .content{
-  background: url("../../../assets/3.jpg");
-  
-  background-size: 100% 100%;
-  padding-top: 300px;
-  padding-bottom: 300px;
-  padding-left: 200px;
+  background: url("../../../assets/1.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  min-height: 100vh;
   color: white;
 }
 
+.contentReservation{
+  padding: 200px 0 200px 50px;
+}
 
+.nameCar{
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.logoInfo{
+  font-size: 23px;
+}
+
+.logoInfo:hover{
+  cursor: pointer;
+}
 
 
 
